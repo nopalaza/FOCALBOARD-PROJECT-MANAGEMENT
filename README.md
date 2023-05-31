@@ -45,13 +45,13 @@ Dengan fitur ini, kamu bisa mengelola beban kerja timmu secara real time. Kamu a
 
 ## II. Cara Penggunaan *Tool* Focalboard
 
-<img src="Dokumentasi FocalBoard/FOCALBOARD 1.png" alt="Photo FocalBoard" title="Optional title">
+<img src="Dokumentasi FocalBoard/FOCALBOARD .png" alt="Photo FocalBoard" title="Preview">
 
 ### 1.	Instalasi Focalboard di Windows (Microsoft Store)
 
 Kita dapat melakukan instalasi *tool* FocalBoard dengan menginstall aplikasi di Microsoft Store dengan mengeklik "*Get*"
 
-<img src="Dokumentasi FocalBoard/FOCALBOARD 2.png" alt="Photo FocalBoard" title="Optional title">
+<img src="Dokumentasi FocalBoard/FOCALBOARD 2.png" alt="Photo FocalBoard" title="Optional Preview">
 
 **2.	Membuat projek pertamamu**
 
