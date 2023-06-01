@@ -49,77 +49,58 @@ Dengan fitur ini, kamu bisa mengelola beban kerja timmu secara real time. Kamu a
 
 ### 1.	Instalasi Focalboard di Windows (Microsoft Store)
 
-Kita dapat melakukan instalasi *tool* FocalBoard dengan menginstall aplikasi di Microsoft Store dengan mengeklik "*Get*"
+Kita dapat melakukan instalasi *tool* FocalBoard dengan menginstall aplikasi di Microsoft Store dengan mengeklik "*Get*".
 
-<img src="Dokumentasi FocalBoard/FOCALBOARD 2.png" alt="Photo FocalBoard" title="Optional Preview">
+<img src="Dokumentasi FocalBoard/FOCALBOARD 2.png" alt="Photo FocalBoard" title="Preview">
 
-**2.	Membuat projek pertamamu**
+### 2.	Membuat *Project* Pertamamu
 
-Setelah melakukan proses instalasi, berikut merupakan tampilan awal aplikasi focalboard saat kita mengaksesnya. Kita dapat membuat projek pertama kita dengan memilih opsi Project task yang terletak d I bawah header “Create a Board” lalu kita akan memilih “use this template” atau “create empty board” untuk membuat board kosong
+Setelah melakukan proses instalasi, berikut merupakan tampilan awal *tool* FocalBoard saat kita mengaksesnya. Kita dapat membuat proyek pertama kita dengan memilih opsi 
+"*Project Task*" yang terletak di bawah header "*Create a Board in*" lalu kita akan memilih "*Use this template*" atau "*Create empty board*" untuk membuat board kosong.
 
-<img src="focalboard/2.2.png" alt="Alt text" title="Optional title">
+<img src="Dokumentasi FocalBoard/FOCALBOARD 3.png" alt="Photo FocalBoard" title="Preview">
 
-Gambar 2.2 – Membuat Projek pertama di asana
+Berikut di bawah ini merupakan tampilan yang akan kita lihat apabila kita memilih "*Project Task*". Kita dapat memodifikasi *Card Project* sesuai dengan kebutuhan kita.
 
+<img src="Dokumentasi FocalBoard/FOCALBOARD 4.png" alt="Photo FocalBoard" title="Preview">
 
-Berikut di bawah ini merupakan tampilan yang akan kita lihat apabila kita memilih project task. Kita dapat meng-cuztomisasi card project sesuai dengan kebutuhan kita.
+### 3.	Menampilkan *Project* Berdasarkan Status
 
-<img src="focalboard/2.3.png" alt="Alt text" title="Optional title"> 
+Setelah kita menuliskan proyek sesuai dengan kebutuhan, kita dapat melakukan *view* ataupun mengatur visibilitas *Card Project* sesuai dengan kategori yang kita inginkan.
 
-Gambar 2.3 – Tampilan card progress projek di asana
+<img src="Dokumentasi FocalBoard/FOCALBOARD 5.png" alt="Photo FocalBoard" title="Preview">
 
+### 4.	Mengedit *Title Board* dan Menambahkan Tugas
 
-**3.	Menampilkan projek berdasarkan status**
+Berikut di bawah ini merupakan tampilan *Card Project* yang akan kita edit sesuai kebutuhan kita.
 
-Setelah kita menuliskan projek sesuai dengan kebutuhan, kita dapat melakukan view ataupun mengatur visibilitas card projek sesuai dengan kategori yang kita inginkan.
+<img src="Dokumentasi FocalBoard/FOCALBOARD 6.png" alt="Photo FocalBoard" title="Preview">
 
-<img src="focalboard/2.4.png" alt="Alt text" title="Optional title">
+Kita dapat mengubah tiap *Card* dengan memilih *Card* tersebut dan kita dapat langsung mengubah judul, memberikan beberapa keterangan seperti prioritas, status maupun durasi 
+pekerjaan.
 
-Gambar 2.4 – Menampilkan projek berdasarkan status
-
-
-**4.	Mengedit title board dan menambahlkan subtugas**
-
-Berikut di bawah ini merupakan tampilan card project yang telah kita edit sesuai kebutuhan kita.
-
-<img src="focalboard/2.5.png" alt="Alt text" title="Optional title">
-
-Gambar 2.5 – Mengedit title board dan menambahkan subtugas
-
-
-Kita dapat mengubah tiap card dengan memilih card tersebut dan kita dapat langsung mengubah judul, memberikan beberapa keterangan seperti prioritas, status maupun durasi pekerjaan.                             
-    
-<img src="focalboard/2.5.png" alt="Alt text" title="Optional title"> 
-
-Gambar 2.5 – Tampilan card projek setelah diedit
+<img src="Dokumentasi FocalBoard/FOCALBOARD 7.png" alt="Photo FocalBoard" title="Preview">
    
-**5.	Memindahkan status project sesuai dengan kategori berjalannya projek**
-Kita dapat melakukan drag and drop card project sesuai dengan progress yang berjalan
+### 5.	Memindahkan *Status Project* Sesuai dengan Kategori Berjalannya *Project*
 
-<img src="focalboard/2.6.png" alt="Alt text" title="Optional title">
+Kita dapat melakukan *drag and drop Card Project* sesuai dengan progres yang sedang berjalan.
 
-Gambar 2.6 – Memindahkan status projek
+<img src="Dokumentasi FocalBoard/FOCALBOARD 8.png" alt="Photo FocalBoard" title="Preview">
 
+<img src="Dokumentasi FocalBoard/FOCALBOARD 9.png" alt="Photo FocalBoard" title="Preview">
 
-**6.	Mengubah tampilan penyajian progress projek**
-Kita dapat mengubah tampilan penyajian dalam bentuk board, table, galleria maupun calendar dengan memilih opsi kategori sesuai yang kita inginkan.
+### 6.	Mengubah Tampilan Penyajian *Progress Project*
 
-<img src="focalboard/2.6.png" alt="Alt text" title="Optional title">
+Kita dapat mengubah tampilan penyajian dalam bentuk *Board, Table, Gallery, and Calendar* dengan memilih opsi kategori sesuai yang kita inginkan.
 
-Gambar 2.7 – Mengubah tampilan penyajian projek
+<img src="Dokumentasi FocalBoard/FOCALBOARD 10.png" alt="Photo FocalBoard" title="Preview">
 
+### 7.	Membagikan *Task*
 
-**7.	Membagikan task**
+Untuk melakukan kolaborasi ataupun membagikan progres suatu proyek yang telah kita buat kita dapat memilih opsi "*Share*" yang terletak pada pojok kanan atas.
 
-Untuk melakukan kolaborasi ataupun membagikan progress suatu projek yang telah kita buat kira dapat memilih opsi share yang terletak pada pojok kanan atas.
+<img src="Dokumentasi FocalBoard/FOCALBOARD 11.png" alt="Photo FocalBoard" title="Preview">
 
-<img src="focalboard/2.8.png" alt="Alt text" title="Optional title">
+Dengan memilih opsi "*Share*", akan muncul sebuah *Link Sharing* yang dapat kita bagikan kepada orang lain dan orang lain dapat melihat progres proyek yang kita bagikan.
 
-Gambar 2.8 – Membagi task
-
-
-Dengan memilih opsi share, akan muncul sebuah link sharing yang dapat kita bagikan kepada orang lain dan orang lain dapat melihat progress projek yang kita bagikan.
-
-<img src="focalboard/2.9.png" alt="Alt text" title="Optional title">
-
-Gambar 2.9 – Link untuk membagikan progress projek
+<img src="Dokumentasi FocalBoard/FOCALBOARD 12.png" alt="Photo FocalBoard" title="Preview">
